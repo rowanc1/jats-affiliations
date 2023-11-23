@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "http://jats.nlm.nih.gov/publishing/1.3/JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" dtd-version="1.3" xml:lang="en" id="article">
+<front>
+<article-meta>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-2461-7748</contrib-id>
+<name name-style="western"><surname>Iacovino</surname><given-names>Kayla</given-names></name>
+<xref ref-type="aff" rid="Jacobs, NASA Johnson Space Center, Houston, TX 77058, USA"/>
+<email>kayla.iacovino@nasa.gov</email>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-1796-9662</contrib-id>
+<name name-style="western"><surname>Matthews</surname><given-names>Simon</given-names></name>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-1070-8323</contrib-id>
+<name name-style="western"><surname>Wieser</surname><given-names>Penny</given-names></name>
+<xref ref-type="aff" rid="University of Cambridge, Department of Earth Sciences, Downing Street, Cambridge CB2 3EQ, UK"/>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-1556-6432</contrib-id>
+<name name-style="western"><surname>Moore</surname><given-names>Gordon M.</given-names></name>
+<xref ref-type="aff" rid="Jacobs, NASA Johnson Space Center, Houston, TX 77058, USA"/>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-8190-2991</contrib-id>
+<name name-style="western"><surname>Bégué</surname><given-names>Florence</given-names></name>
+<xref ref-type="aff" rid="University of Geneva, Department of Earth Sciences, Geneva, Switzerland"/>
+</contrib>
+</contrib-group>
+<permissions>
+<license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+<ali:license_ref>https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+</license>
+</permissions>
+</article-meta>
+</front>
+<body>
+<p>hello!</p>
+</body>
+</article>

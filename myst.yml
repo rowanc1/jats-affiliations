@@ -1,0 +1,31 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: 'VESIcal: An open-source thermodynamic model engine for mixed volatile (H₂O-CO₂) solubility in silicate melts'
+  subject: Original Research
+  venue: Notebooks Now!
+  license: CC-BY-4.0
+  thumbnail: thumbnail.png
+  authors:
+    - name: Kayla Iacovino
+      orcid: 0000-0002-2461-7748
+      email: kayla.iacovino@nasa.gov
+      affiliation: Jacobs, NASA Johnson Space Center, Houston, TX 77058, USA
+    - name: Simon Matthews
+      orcid: 0000-0003-1796-9662
+      affiliations:
+        - Johns Hopkins University, Department of Earth and Planetary Sciences, Baltimore, MD 21218, USA
+        - University of Iceland, Institute of Earth Sciences, Askja, Sturlugata 7, 101 Reykjavik, Iceland
+    - name: Penny Wieser
+      orcid: 0000-0002-1070-8323
+      affiliation: University of Cambridge, Department of Earth Sciences, Downing Street, Cambridge CB2 3EQ, UK
+    - name: Gordon M. Moore
+      orcid: 0000-0002-1556-6432
+      affiliation: Jacobs, NASA Johnson Space Center, Houston, TX 77058, USA
+    - name: Florence Bégué
+      orcid: 0000-0002-8190-2991
+      affiliation: University of Geneva, Department of Earth Sciences, Geneva, Switzerland
+  exports:
+    - format: xml
+      article: article.md
+      output: article.xml
